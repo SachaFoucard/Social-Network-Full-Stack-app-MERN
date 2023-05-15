@@ -1,0 +1,53 @@
+.profil {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  background-color: #f1f1f1;
+  border-radius: 10px;
+}
+
+.profil img {
+  margin-top: 20px;
+}
+
+.abs-ico-pen-img {
+  margin-left: 10px;
+  color: gray;
+  cursor: pointer;
+}
+
+.abs-ico-pen-img:hover {
+  color: black;
+}
+
+.profil h1 {
+  margin: 20px 0;
+}
+
+.profil p {
+  margin: 10px 0;
+}
+
+.profil input[type="text"] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border: none;
+  box-shadow: 1px 1px 1px gray;
+}
+
+.profil Button {
+  margin-top: 20px;
+  background-color: #1976d2;
+  color: white;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.profil Button:hover {
+  background-color: #0d47a1;
+}
