@@ -21,8 +21,8 @@ Overall, my project provides a basic user authentication system with user regist
 * [Mango DB ] : Mangoose
 * [React JS] : (react-router-dom)(material ui)
 
-<img width="843" alt="Capture d’écran 2023-05-11 à 00 46 09" src="https://github.com/SachaFoucard/MERN-Authentication-FullStack-app/assets/94567706/a535ad8f-d011-4c32-8adc-c9dd933c6194">
-<img width="843" alt="Capture d’écran 2023-05-11 à 00 47 14" src="https://github.com/SachaFoucard/MERN-Authentication-FullStack-app/assets/94567706/e2a8c0aa-5e78-4302-aef3-e3b1bfec1c8a">
+<img width="745" alt="Capture d’écran 2023-05-21 à 01 20 33" src="https://github.com/SachaFoucard/Social-Network-Full-Stack-app-MERN/assets/94567706/4b82c2c6-b3de-418c-a937-a8d1fa86d57e">
+<img width="745" alt="Capture d’écran 2023-05-21 à 01 20 19" src="https://github.com/SachaFoucard/Social-Network-Full-Stack-app-MERN/assets/94567706/f6a3af9c-964e-485d-a2de-bea8fe22c903">
 
 <img width="968" alt="Capture d’écran 2023-05-08 à 15 31 53" src="https://user-images.githubusercontent.com/94567706/236824628-00eed07b-9675-4cd6-866e-37abda0be179.png">
 <img width="968" alt="Capture d’écran 2023-05-08 à 15 32 55" src="https://user-images.githubusercontent.com/94567706/236824816-99272e89-4c9b-440d-a093-b26932810e51.png">
