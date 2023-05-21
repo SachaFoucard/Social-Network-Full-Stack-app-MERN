@@ -21,7 +21,7 @@ Overall, my project provides a basic user authentication system with user regist
 * [Mango DB ] : Mangoose
 * [React JS] : (react-router-dom)(material ui)
 
-![video (1)](https://github.com/SachaFoucard/niros/assets/99140511/37cef010-c8cc-4bf1-abe6-29737e63f2e7)
+[video (1)](https://github.com/SachaFoucard/niros/assets/99140511/37cef010-c8cc-4bf1-abe6-29737e63f2e7)
 
 
 <img width="745" alt="Capture d’écran 2023-05-21 à 01 20 33" src="https://github.com/SachaFoucard/Social-Network-Full-Stack-app-MERN/assets/94567706/4b82c2c6-b3de-418c-a937-a8d1fa86d57e">
