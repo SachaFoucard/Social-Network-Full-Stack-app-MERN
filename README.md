@@ -19,7 +19,7 @@ Overall, my project provides a basic user authentication system with user regist
 ***
 * [Node JS] : Express - Node JS - Routes/ (get/post/delete/put) 
 * [Mango DB ] : Mangoose
-* [React JS] : (react-router-dom)(material ui)
+* [React JS] : (react-router-dom,Context)(material ui)
 
 [video (1)](https://github.com/SachaFoucard/niros/assets/99140511/37cef010-c8cc-4bf1-abe6-29737e63f2e7)
 
