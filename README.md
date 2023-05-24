@@ -1,7 +1,7 @@
 # MERN-Social-Network-Full-Stack-app
  
 
-Sure! My project is a MERN stack application that allows users to register, login, write posts, view a list of all registered users, and manage their own profile information. The frontend is built with React and Material UI and pure css, and the backend uses Node.js and MongoDB for the database.
+My project is a MERN stack application that allows users to register, login, write posts, view a list of all registered users, and manage their own profile information. The frontend is built with React and Material UI and pure css, and the backend uses Node.js and MongoDB for the database.
    
 The registration page allows users to sign up by entering their name, email, and password. When a user submits the registration form, their information is saved to the database and they are redirected to the login page. (I didn't made all check validation form because I already did it into an other project "credit-card-project")
 
